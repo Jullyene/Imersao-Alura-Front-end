@@ -57,7 +57,7 @@ O projeto recria a interface do Spotify, focando no layout responsivo e interaç
 ├── 📄 .gitattributes
 ├── 📄 README.md
 ```
-##Aparência do Projeto
+## Aparência do Projeto
 ![image](https://github.com/user-attachments/assets/28d66fa6-4493-42d5-95b7-7639f9ce861d)
 
 
@@ -126,4 +126,8 @@ Este projeto é licenciado sob a **MIT License** - sinta-se à vontade para util
 | ![jullyene-foto](https://github.com/user-attachments/assets/fffd5ae6-043b-4065-86d5-f54573324f28)|
 
 
+## Acesse o Projeto em html | css e javascript sem frameworks
 
+Repositório: https://github.com/Jullyene/Spotify-Imersao-Alura
+
+Hospedagem na vercel: https://spotify-imersao-alura-silk.vercel.app
